@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 2ec4978a0266c1440935869bf62c1f32
+timeCreated: 1538939315
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: map_25_osm
+    100002: map_25_osm_buildings
+    100004: map_25_osm_buildings_MeshPart0
+    100006: map_25_osm_buildings_MeshPart1
+    100008: map_25_osm_buildings_MeshPart10
+    100010: map_25_osm_buildings_MeshPart11
+    100012: map_25_osm_buildings_MeshPart12
+    100014: map_25_osm_buildings_MeshPart13
+    100016: map_25_osm_buildings_MeshPart14
+    100018: map_25_osm_buildings_MeshPart2
+    100020: map_25_osm_buildings_MeshPart3
+    100022: map_25_osm_buildings_MeshPart4
+    100024: map_25_osm_buildings_MeshPart5
+    100026: map_25_osm_buildings_MeshPart6
+    100028: map_25_osm_buildings_MeshPart7
+    100030: map_25_osm_buildings_MeshPart8
+    100032: map_25_osm_buildings_MeshPart9
+    100034: //RootNode
+    100036: Plane
+    100038: Plane_001
+    400000: map_25_osm
+    400002: map_25_osm_buildings
+    400004: map_25_osm_buildings_MeshPart0
+    400006: map_25_osm_buildings_MeshPart1
+    400008: map_25_osm_buildings_MeshPart10
+    400010: map_25_osm_buildings_MeshPart11
+    400012: map_25_osm_buildings_MeshPart12
+    400014: map_25_osm_buildings_MeshPart13
+    400016: map_25_osm_buildings_MeshPart14
+    400018: map_25_osm_buildings_MeshPart2
+    400020: map_25_osm_buildings_MeshPart3
+    400022: map_25_osm_buildings_MeshPart4
+    400024: map_25_osm_buildings_MeshPart5
+    400026: map_25_osm_buildings_MeshPart6
+    400028: map_25_osm_buildings_MeshPart7
+    400030: map_25_osm_buildings_MeshPart8
+    400032: map_25_osm_buildings_MeshPart9
+    400034: //RootNode
+    400036: Plane
+    400038: Plane_001
+    2300000: map_25_osm_buildings_MeshPart0
+    2300002: map_25_osm_buildings_MeshPart1
+    2300004: map_25_osm_buildings_MeshPart10
+    2300006: map_25_osm_buildings_MeshPart11
+    2300008: map_25_osm_buildings_MeshPart12
+    2300010: map_25_osm_buildings_MeshPart13
+    2300012: map_25_osm_buildings_MeshPart14
+    2300014: map_25_osm_buildings_MeshPart2
+    2300016: map_25_osm_buildings_MeshPart3
+    2300018: map_25_osm_buildings_MeshPart4
+    2300020: map_25_osm_buildings_MeshPart5
+    2300022: map_25_osm_buildings_MeshPart6
+    2300024: map_25_osm_buildings_MeshPart7
+    2300026: map_25_osm_buildings_MeshPart8
+    2300028: map_25_osm_buildings_MeshPart9
+    2300030: Plane
+    2300032: Plane_001
+    3300000: map_25_osm_buildings_MeshPart0
+    3300002: map_25_osm_buildings_MeshPart1
+    3300004: map_25_osm_buildings_MeshPart10
+    3300006: map_25_osm_buildings_MeshPart11
+    3300008: map_25_osm_buildings_MeshPart12
+    3300010: map_25_osm_buildings_MeshPart13
+    3300012: map_25_osm_buildings_MeshPart14
+    3300014: map_25_osm_buildings_MeshPart2
+    3300016: map_25_osm_buildings_MeshPart3
+    3300018: map_25_osm_buildings_MeshPart4
+    3300020: map_25_osm_buildings_MeshPart5
+    3300022: map_25_osm_buildings_MeshPart6
+    3300024: map_25_osm_buildings_MeshPart7
+    3300026: map_25_osm_buildings_MeshPart8
+    3300028: map_25_osm_buildings_MeshPart9
+    3300030: Plane
+    3300032: Plane_001
+    4300000: Plane
+    4300002: Plane_001
+    4300004: map_25_osm_buildings_MeshPart0
+    4300006: map_25_osm_buildings_MeshPart1
+    4300008: map_25_osm_buildings_MeshPart2
+    4300010: map_25_osm_buildings_MeshPart3
+    4300012: map_25_osm_buildings_MeshPart4
+    4300014: map_25_osm_buildings_MeshPart5
+    4300016: map_25_osm_buildings_MeshPart6
+    4300018: map_25_osm_buildings_MeshPart7
+    4300020: map_25_osm_buildings_MeshPart8
+    4300022: map_25_osm_buildings_MeshPart9
+    4300024: map_25_osm_buildings_MeshPart10
+    4300026: map_25_osm_buildings_MeshPart11
+    4300028: map_25_osm_buildings_MeshPart12
+    4300030: map_25_osm_buildings_MeshPart13
+    4300032: map_25_osm_buildings_MeshPart14
+    6400000: map_25_osm_buildings_MeshPart0
+    6400002: map_25_osm_buildings_MeshPart1
+    6400004: map_25_osm_buildings_MeshPart10
+    6400006: map_25_osm_buildings_MeshPart11
+    6400008: map_25_osm_buildings_MeshPart12
+    6400010: map_25_osm_buildings_MeshPart13
+    6400012: map_25_osm_buildings_MeshPart14
+    6400014: map_25_osm_buildings_MeshPart2
+    6400016: map_25_osm_buildings_MeshPart3
+    6400018: map_25_osm_buildings_MeshPart4
+    6400020: map_25_osm_buildings_MeshPart5
+    6400022: map_25_osm_buildings_MeshPart6
+    6400024: map_25_osm_buildings_MeshPart7
+    6400026: map_25_osm_buildings_MeshPart8
+    6400028: map_25_osm_buildings_MeshPart9
+    6400030: Plane
+    6400032: Plane_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
